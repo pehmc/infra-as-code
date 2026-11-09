@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Infra PlayBook</h1>
+  <h1>Infra as Code</h1>
   <p>
-     IT基础设施架构
+     IT基础设施工程
     <br />
     <a href="https://github.com/pehmc/infra-playbook/releases">下载pdf</a>
     ·
