@@ -31,6 +31,4 @@
 
 - [《数据密集型应用系统设计》精华整理](https://github.com/fuxuemingzhu/DDIA-Reading-Notes)
 - [华为IP知识百科](https://info.support.huawei.com/info-finder/encyclopedia/zh/index)
-
-
-
+- [终于有人把数据中心讲明白了](https://zhuanlan.zhihu.com/p/1931286322628268716)
